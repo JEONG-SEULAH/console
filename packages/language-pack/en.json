@@ -2952,7 +2952,7 @@
 			},
 			"TITLE": "Workspace Group",
 			"TOOLTIP_COST": "based on Cost Report",
-			"TOOLTIP_STATE": "With ‘Auto Dormancy Configuration’ turned on, workspaces with a total cost lower than the user-defined threshold will automatically be set to dormant. The threshold can be changed in [Preferences > Domain Settings > Auto Dormancy Configuration]."
+			"TOOLTIP_STATE": "With the dormancy configuration enabled, workspaces with a total cost lower than the user-defined threshold will automatically be set to dormant. The threshold can be changed in [Advanced > Dormancy Configuration]."
 		}
 	},
 	"IDENTITY": {
